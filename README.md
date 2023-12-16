@@ -13,4 +13,13 @@ global row 3
 winner = 1
 winner = 2
 winner = 3
+def check winner ():
+global winner
+row 1
+row 2
+row 3
+def playwr ():
+player 1
+player 2
+execute game ():
 def run game
